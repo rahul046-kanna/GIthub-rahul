@@ -23,6 +23,7 @@ namespace GIthub_rahul.Controllers
             return View();
         }
         // changes done by rahul for time pass
+        //this changes made by rahul from git hub 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
