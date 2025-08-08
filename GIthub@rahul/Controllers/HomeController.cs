@@ -17,7 +17,7 @@ namespace GIthub_rahul.Controllers
         {
             return View();
         }
-
+        // adding rahul
         public IActionResult Privacy()
         {
             return View();
