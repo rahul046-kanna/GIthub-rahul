@@ -22,6 +22,7 @@ namespace GIthub_rahul.Controllers
         {
             return View();
         }
+        // changes done by rahul for time pass
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
